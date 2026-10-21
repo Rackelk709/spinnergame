@@ -1,5 +1,3 @@
-# spinnergame<iframe
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -375,4 +373,3 @@ if (!questions.length) {
 </script>
 </body>
 </html>
-
